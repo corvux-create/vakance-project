@@ -1,0 +1,24 @@
+
+
+.nav-pills .nav-link {
+  font-size: 18px;
+}
+
+.nav-link:hover {
+  color: #DF59A2;
+  background-color: #C3CBCF
+}
+
+.nav-link:focus {
+  color: #DF59A2;
+  background-color: #5DC1E4
+}
+
+.active {
+  color: #4d9c18;
+  background-color: #5DC1E4
+}
+
+.display-5 {
+  font-size: 40px;
+}
